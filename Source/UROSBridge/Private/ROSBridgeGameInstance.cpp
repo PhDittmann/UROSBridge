@@ -1,6 +1,7 @@
 // Copyright 2018, Institute for Artificial Intelligence - University of Bremen
 
 #include "ROSBridgeGameInstance.h"
+#include "UROSBridge.h"
 
 // Default constructor
 UROSBridgeGameInstance::UROSBridgeGameInstance()
